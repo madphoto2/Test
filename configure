@@ -1,0 +1,4 @@
+git config --global user.name "madphoto2" 
+git config --gloabl user.email "97seanwalk@gmail.com"
+git config --global init.defaultBranch main 
+git config --global color.ui auto
